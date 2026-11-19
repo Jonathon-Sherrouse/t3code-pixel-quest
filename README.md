@@ -1,5 +1,7 @@
 # Pixel Quest for T3 Code
 
+[![Featured on Agent Skins](https://agentskins.app/badge/t3/pixel-quest.svg)](https://agentskins.app/skins/t3/pixel-quest)
+
 A JRPG pixel-art night theme for [T3 Code](https://github.com/pingdotgg/t3code): a deep violet palette and an animated 16-bit scene behind your chat. Stars twinkle, a spell sigil turns and flings bolts, rainbow crystals shimmer while mana motes rise off them, and a little castle keeps its windows lit.
 
 ![Pixel Quest preview](preview.png)
